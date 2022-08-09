@@ -1,0 +1,19 @@
+
+
+.container {
+	background-color: aqua;
+	color: black;
+	height: 800px;
+	width: 400px;
+	border: black;
+}
+.container1 {
+	background-color: aqua;
+	color: black;
+	height: 500px;
+	width: 400px;
+	border: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
